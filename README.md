@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-milton-ferreira-752447110/)
 
-![Status do GitHub Thiago Ferreira](https://github-readme-stats.vercel.app/api?username=ThiagoMiltonFerreira&show_icons=true&theme=dracula)
+![Status do GitHub Thiago Ferreira](https://github-readme-stats.vercel.app/api?username=ThiagoMiltonFerreira&show_icons=true&theme=blue-green)
 
 ## Tecnologias que utilizo no meu dia.
 
@@ -19,4 +19,4 @@
     <img align="center" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white"/>
 
 </div><br/><br/>
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMiltonFerreira&theme=blue-green"/>
