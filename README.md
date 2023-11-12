@@ -1,4 +1,4 @@
-### Ola 👋, sou o Thiago bacharel em sistemas de informação, mais de cinco anos atuando na área da tecnologia. Atualmente como alista de testes e qualidade de software.
+### Ola 👋, sou o Thiago bacharel em sistemas de informação, a mais de cinco anos atuando na área da tecnologia. Atualmente como alista de testes e qualidade de software.
 <hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-milton-ferreira-752447110/)
